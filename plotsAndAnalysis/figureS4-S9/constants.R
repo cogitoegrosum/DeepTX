@@ -1,0 +1,1 @@
+data_dir = "D:/academic_relate_code_two/Nessie-main/DeepTX/plotsAndAnalysis/figure"
